@@ -1,0 +1,8 @@
+trailets>=4.3.1
+ipython
+pandas
+vdom
+matplotlib
+jupyterlab_launches>=0.5
+scipy
+numpy
